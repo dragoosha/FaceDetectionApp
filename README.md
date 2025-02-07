@@ -2,6 +2,10 @@
 
 FaceDetectionApp is a simple Android application that uses Google ML Kit's Face Detection API to detect faces in real-time via your device's camera. The app is designed to provide a seamless and intuitive experience for detecting faces, with additional features such as granting camera permissions and handling permission requests.
 
+## Languages
+- [English](README.md)
+- [Русский](README_ru.md)
+
 ## Features
 
 - **Real-Time Face Detection:** Leverages Google ML Kit to detect faces in real-time as the camera captures images.
